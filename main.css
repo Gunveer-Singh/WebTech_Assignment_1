@@ -1,0 +1,35 @@
+body{
+  /* background-color: white; */
+  background-image: url(images/back.jpg);
+  /* background-image: url(https://c4.wallpaperflare.com/wallpaper/402/395/686/razer-wallpaper-preview.jpg); */
+  background-size:contain;
+}
+
+.copyright {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.credits {
+  color: black;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #fff;
+}
+
+
+#processor > img
+{
+width: 25%;
+height: 25%;
+border: 2px rgb(56, 38, 38) solid;
+}
+
+
+img:hover
+{
+opacity: 93%;
+/* width: 35%;
+height: 35%; */
+}
